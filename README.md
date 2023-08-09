@@ -4,3 +4,4 @@ yetkili kişilerin yardım için hızlı ulaşmasına olanak sağlar. Ayrıca ko
 Kişi fotograf ekleyebilir. 
 Başkaları için durum bildirebilir.
 Hızlıca otomatik olarak konumuna geri dönebilir(Anlık konum için tıklayın)
+Api Google tarafından alınmıştır.
