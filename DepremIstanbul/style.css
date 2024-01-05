@@ -2,13 +2,12 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #555;
- 
+    background-color: white;
    
 }
 
 .container {
-    max-width: 600px;
+    max-width: 96%;
     margin: 30px auto;
     padding: 20px;
     border-radius: 10px;
@@ -24,7 +23,7 @@ h1 {
 }
 
 .form-group {
-    margin-bottom: 20px;
+    margin-bottom: 5px;
 }
 
 .form-group label {
