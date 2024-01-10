@@ -5,3 +5,6 @@ Kişi fotograf ekleyebilir.
 Başkaları için durum bildirebilir.
 Hızlıca otomatik olarak konumuna geri dönebilir(Anlık konum için tıklayın)
 Api Google tarafından alınmıştır.
+
+
+YAPIM AŞAMASINDADIR!!
